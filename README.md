@@ -58,5 +58,5 @@ I implemented a `gym.Wrapper` to transform the deterministic Lander problem into
 ### 1. Setup
 ```bash
 git clone [https://github.com/YourUsername/Robust-Lunar-Lander.git](https://github.com/YourUsername/Robust-Lunar-Lander.git)
-cd Robust-Lunar-Lander
+cd LunarLander_RL
 pip install -r requirements.txt
