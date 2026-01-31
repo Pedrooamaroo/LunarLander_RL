@@ -1,0 +1,9 @@
+Model,Algorithm,Environment,Settings,Mean Reward,Success Rate (%),Mean Length,Best Reward
+Original Environment - PPO Settings 1,PPO,Original,1,281.48 ± 39.34,98.0,214.66,326.7227521296154
+Original Environment - PPO Settings 2,PPO,Original,2,270.33 ± 30.51,95.0,282.87,309.3166756501216
+Custom Environment - PPO Settings 1,PPO,Custom,1,157.10 ± 140.41,60.0,263.79,323.2276747635349
+Custom Environment - PPO Settings 2,PPO,Custom,2,130.05 ± 170.45,56.00000000000001,245.1,332.1189602655695
+Original Environment - DQN Settings 1,DQN,Original,1,-27.83 ± 178.72,25.0,298.04,308.7793759281017
+Original Environment - DQN Settings 2,DQN,Original,2,49.36 ± 138.92,6.0,842.12,242.7749399914619
+Custom Environment - DQN Settings 1,DQN,Custom,1,-143.66 ± 99.26,1.0,206.08,231.63925409222347
+Custom Environment - DQN Settings 2,DQN,Custom,2,13.80 ± 155.04,25.0,206.59,316.39568429201074

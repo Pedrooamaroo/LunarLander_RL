@@ -1,0 +1,21 @@
+# Python's version == 3.10
+
+# Core RL Environment
+gymnasium[box2d]==1.0.0
+
+# RL Algorithms
+stable-baselines3[extra]==2.4.0
+sb3-contrib==2.4.0
+
+# Data Visualization
+seaborn>=0.13.0
+matplotlib>=3.8.0
+imageio>=2.33.0
+
+# Data Manipulation
+numpy>=1.26.0, <2.0.0
+pandas>=2.2.0
+
+# Compatibility & System
+shimmy>=2.0.0
+ipykernel
