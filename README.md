@@ -46,7 +46,7 @@ I implemented a `gym.Wrapper` to transform the deterministic Lander problem into
 
 | Standard Environment | Custom "Deep Space" Environment |
 | :---: | :---: |
-| <img src="media/lunar_lander.gif" width="350"> | <img src="media/custom_side_by_side.gif" width="350"> |
+| <img src="Lunar_Lander_Project/media/lunar_lander.gif" width="350"> | <img src="Lunar_Lander_Project/media/custom_side_by_side.gif" width="350"> |
 | *Stable, vertical descent.* | *Fighting lateral wind & gravity shifts.* |
 
 *(Note: In the Custom Environment, the dark blue background signifies the active wind/gravity randomization mod.)*
